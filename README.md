@@ -6,9 +6,8 @@ Viasat designs all of the hardware necessary to provide internet services, but o
 
 This project will focus on optimizing the supply chain of a single product, which will be referred to as "Product X".  This involves determining which suppliers should be used to manufacture product X in order to minimize cost.
 
-![Product Structure](https://github.com/RyanKohls/simulation-final-project/images/product_structure.PNG)
-![Product Structure 2](http://ryankohls.github.io/simulation-final-project/images/product_structure.PNG)
- 
+![Product Structure of X](http://ryankohls.github.io/simulation-final-project/images/product_structure.PNG)
+
 ## High Level Objectives
 
 Placeholder
